@@ -1,7 +1,7 @@
 var readlineSync = require('readline-sync');
 var chalk = require('chalk');
 const CFonts = require('cfonts');
-var score = 0;
+var score = 0 ;
 
 questionSet =[
   {
