@@ -1,8 +1,15 @@
 {
-  "name": "do-you-know-me",
+  "name": "Do-You-Know-Me",
   "version": "1.0.0",
-  "description": "Fun CLI app made using Node JS",
+  "description": "",
   "main": "index.js",
+  "dependencies": {
+    "cfonts": "^2.8.6",
+    "chalk": "^4.1.0",
+    "chalk-animation": "^1.6.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,15 +17,11 @@
     "type": "git",
     "url": "git+https://github.com/pandeyaman/Do-You-Know-Me.git"
   },
-  "author": "Aman Pandey",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pandeyaman/Do-You-Know-Me/issues"
   },
-  "homepage": "https://github.com/pandeyaman/Do-You-Know-Me#readme",
-  "dependencies": {
-    "cfonts": "^2.8.6",
-    "chalk": "^4.1.0",
-    "readline-sync": "^1.4.10"
-  }
+  "homepage": "https://github.com/pandeyaman/Do-You-Know-Me#readme"
 }
