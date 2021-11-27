@@ -11,7 +11,7 @@ console.log(chalk.hex('#0be881')("\n--------------------------------------------
 greet(userName);
 console.log(chalk.hex('#0be881')("------------------------------------------------------------"));
 
-console.log(chalk.hex('#0be881')(`Let's see how much do you know about Aman 🧐\n`));
+console.log(chalk.hex('#0be881')(`Let's see how much do you know about Aman Pandey 🧐\n`));
 
 question1 ={
   question : 'Aman was born on __ April? 👶\n',
